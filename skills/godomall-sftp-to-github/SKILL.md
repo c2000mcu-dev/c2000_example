@@ -22,7 +22,7 @@ Read [references/godomall-notes.md](references/godomall-notes.md) for observed f
 
 ## Process one article at a time
 
-1. Put unmodified original files in stable article-specific repository directories. Add a concise README with the source article, filename, size, and SHA-256. Keep backups and private administrative/configuration files out of commits. Resolve hosting before changing links if files exceed GitHub's current limits.
+1. Put unmodified original files in stable article-specific repository directories. Add a concise README with the source article, filename, size, and SHA-256. Keep backups and private administrative/configuration files out of commits. For files too large for ordinary Git storage, use assets on a release in the same repository and link them from the article README. Keep original bytes intact; use stable asset names and preserve original filenames as release display labels and manifest metadata. Check an existing asset before retrying an upload instead of overwriting it blindly.
 2. Commit and push with the intended GitHub account. Download each file through its final public URL and compare its complete SHA-256 to the backup. A push or HTTP 200 alone is insufficient. Run `scripts/verify_artifact.py SOURCE --url URL` for this check.
 3. Re-read the live article to detect concurrent edits. Replace only inventoried download `href` values, preserving link text and surrounding HTML. Percent-encode GitHub URL paths for Unicode, spaces, and special characters.
 4. Save through the authenticated form. Verify the persisted body and public page. Remove obsolete attachment registrations only after their files have been published and verified, so the page does not display dead old downloads.

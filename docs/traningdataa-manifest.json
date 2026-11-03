@@ -1,0 +1,550 @@
+{
+  "board": "traningdataa",
+  "date": "2026-11-03",
+  "posts": [
+    {
+      "number": 1,
+      "sno": 64,
+      "directory": "traningdataa/0001-post-64",
+      "commit": "f7d45a199a9d5506b0be32acc2be7b39390d21e5",
+      "files": [
+        {
+          "filename": "BASIC_V330 (with Slave).zip",
+          "bytes": 3075913,
+          "sha256": "64340f6e48b690a629742caf2dfdb2416f034bac5de6a4760cb3da7245d6165f",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0001-post-64/BASIC_V330%20%28with%20Slave%29.zip"
+        },
+        {
+          "filename": "BASIC_V400 (with Slave).zip",
+          "bytes": 9801983,
+          "sha256": "2d63f0671286665f97d168dba8065bf7181ef7f7abaf835d0293cc62f9d9f423",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0001-post-64/BASIC_V400%20%28with%20Slave%29.zip"
+        },
+        {
+          "filename": "TIDCS.zip",
+          "bytes": 2222733,
+          "sha256": "cf6a8316f2d7b905dccd1d42f7a3febc967a1f981207bfbe96d420cc8bb6a34d",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0001-post-64/TIDCS.zip"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "sno": 66,
+      "directory": "traningdataa/0002-post-66",
+      "commit": "aae4bb5d054a772152289983e8f958bb7078d74c",
+      "files": [
+        {
+          "filename": "Slave_V100.zip",
+          "bytes": 53137,
+          "sha256": "af82f9b0adf161dcbdcf2615bdd775ea18ae3a8db7d195734ed4be7183825891",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0002-post-66/Slave_V100.zip"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "sno": 67,
+      "directory": "traningdataa/0003-post-67",
+      "commit": "b79995387f42c75fdf011817c52706c4a7e424fe",
+      "files": [
+        {
+          "filename": "ADC_ADAPTER_EXM.zip",
+          "bytes": 3151374,
+          "sha256": "634026c395b07ab399841e759e1f4219d724244aff6f558719b1825465454385",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0003-post-67/ADC_ADAPTER_EXM.zip"
+        },
+        {
+          "filename": "TIDCS_DSP2834x.zip",
+          "bytes": 416405,
+          "sha256": "5e1364d78a76cd729fa3e67b316822eacd2209713790bfada28344272aec0333",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0003-post-67/TIDCS_DSP2834x.zip"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "sno": 74,
+      "directory": "traningdataa/0004-post-74",
+      "commit": "76c3db7e2ac25cecd70cd64663893a617ec9c4d7",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0004-post-74/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "MICIN_to_HPOUT_V330.zip",
+          "bytes": 89527,
+          "sha256": "1dd73d7e11ad0089d9e6d6e1d64bb22110900a2e5fc89a0e9ba46d32b5c5b5f9",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0004-post-74/MICIN_to_HPOUT_V330.zip"
+        },
+        {
+          "filename": "MICIN_to_HPOUT_V400.zip",
+          "bytes": 91549,
+          "sha256": "f8bc64483fe18bdd8de0ff2e0ee29c300c3b61f710fec08df8cb1c4525652cb0",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0004-post-74/MICIN_to_HPOUT_V400.zip"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "sno": 75,
+      "directory": "traningdataa/0005-post-75",
+      "commit": "f4d4a72a4e1c8403d0cd9137cbaacd36ffe4e9dd",
+      "files": [
+        {
+          "filename": "TIDCS_Delfino.zip",
+          "bytes": 4546105,
+          "sha256": "498da336e0cd1cac0a1b758ccbd8f254a38fc31a123876765b414a79e7578f42",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0005-post-75/TIDCS_Delfino.zip"
+        },
+        {
+          "filename": "TIDCS_Piccolo.zip",
+          "bytes": 2586703,
+          "sha256": "712d51712ef66aea4675c4e62619060ccfdee6a2d154450512c965f8a39c16bc",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0005-post-75/TIDCS_Piccolo.zip"
+        },
+        {
+          "filename": "Delfino_Brushed_DC_Motor_Examples.zip",
+          "bytes": 340576,
+          "sha256": "9f4051587819298912f459acf8860bed7b6b8f34f02147eee6dadcee5f4ec4a7",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0005-post-75/Delfino_Brushed_DC_Motor_Examples.zip"
+        },
+        {
+          "filename": "Delfino_Stepper_Motor_Microstepping_Examples.zip",
+          "bytes": 318489,
+          "sha256": "3e29062dace4b660814e576820e517582262ddc881562310b2ca538f48cf2669",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0005-post-75/Delfino_Stepper_Motor_Microstepping_Examples.zip"
+        },
+        {
+          "filename": "Piccolo_Brushed_DC_Motor_Examples.zip",
+          "bytes": 87510,
+          "sha256": "09b483dadb70fb3d125379e33a54df1f3c2856c888bb9f1c6161571a232983a8",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0005-post-75/Piccolo_Brushed_DC_Motor_Examples.zip"
+        },
+        {
+          "filename": "Piccolo_Stepper_Motor_Microstepping_Examples.zip",
+          "bytes": 93723,
+          "sha256": "fcd44c6373a402b0d1e0bf98098a0873c81938268230999e48245b0eb0438b56",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0005-post-75/Piccolo_Stepper_Motor_Microstepping_Examples.zip"
+        },
+        {
+          "filename": "Incremental Encoder를 이용한 Brushed DC Motor의 제어.pdf",
+          "bytes": 1645526,
+          "sha256": "2ac753836fb96416d80dfc7916e251d8a26ef382248121a37ead75adfeb00336",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0005-post-75/Incremental%20Encoder%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20Brushed%20DC%20Motor%EC%9D%98%20%EC%A0%9C%EC%96%B4.pdf"
+        },
+        {
+          "filename": "Bipolar Stepper Motor의 Microstepping.pdf",
+          "bytes": 1463939,
+          "sha256": "f1fb7c61504fb2f5df6721ef2e0d842d61122f05d54d7e02fc5cc2c37aafebd3",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0005-post-75/Bipolar%20Stepper%20Motor%EC%9D%98%20Microstepping.pdf"
+        },
+        {
+          "filename": "Datasheet_Delfino_EVM_Motor_Module_V131.pdf",
+          "bytes": 2918850,
+          "sha256": "9ddf423fc949708055321a9d422d2fbda63e47b894b36a2b1bcb6c28dfad474b",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0005-post-75/Datasheet_Delfino_EVM_Motor_Module_V131.pdf"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "sno": 76,
+      "directory": "traningdataa/0006-post-76",
+      "commit": "3b872314d82df7b15ef567cf5acc347a5fa16825",
+      "files": [
+        {
+          "filename": "TIDCS_SMC150_V2.0.zip",
+          "bytes": 6266336,
+          "sha256": "4721c7727a49635bfdb8faa1f9c1788ae3f343854b6a22da29355d4d00053a46",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/TIDCS_SMC150_V2.0.zip"
+        },
+        {
+          "filename": "SMC150_BLDCM_Sensored_V2.1.zip",
+          "bytes": 966533,
+          "sha256": "c60a5a3173891130f7490fd565899890694c8f417fd03ce49a0a3e9ebe99dc7a",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/SMC150_BLDCM_Sensored_V2.1.zip"
+        },
+        {
+          "filename": "SMC150_PMSM_Sensored(FOC)_V2.2.zip",
+          "bytes": 1135133,
+          "sha256": "bc501b55310ceb3feb2313b8d13841bd5537f3df92409de9b8b2511ee2d35569",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/SMC150_PMSM_Sensored%28FOC%29_V2.2.zip"
+        },
+        {
+          "filename": "Hall-Effect Sensor를 이용한 3상 BLDCM의 속력제어 (V2.0).pdf",
+          "bytes": 3020136,
+          "sha256": "c4a37c0301362b844c70ac6e4c4272e5924da7b1e7d071486e39b344ef7b29a7",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/Hall-Effect%20Sensor%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%203%EC%83%81%20BLDCM%EC%9D%98%20%EC%86%8D%EB%A0%A5%EC%A0%9C%EC%96%B4%20%28V2.0%29.pdf"
+        },
+        {
+          "filename": "BLDCM(B60Q-H24051-D5) 사양 및 활용안내.pdf",
+          "bytes": 515170,
+          "sha256": "a04b052f46ea3089ee18fbb9372ffd46388509c91114a1fce726096643ad26d5",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/BLDCM%28B60Q-H24051-D5%29%20%EC%82%AC%EC%96%91%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9%EC%95%88%EB%82%B4.pdf"
+        },
+        {
+          "filename": "Incremental Encoder를 이용한 3상 PMSM의 속도, 위치제어 (V2.0).pdf",
+          "bytes": 4301222,
+          "sha256": "aefcdf3b841cec6c0da31180db1a1e16af364d4b5aa1389c93c0cc1f9300e163",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/Incremental%20Encoder%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%203%EC%83%81%20PMSM%EC%9D%98%20%EC%86%8D%EB%8F%84%2C%20%EC%9C%84%EC%B9%98%EC%A0%9C%EC%96%B4%20%28V2.0%29.pdf"
+        },
+        {
+          "filename": "TIDCS_SMC150_V1.5.zip",
+          "bytes": 8367588,
+          "sha256": "6ee1ccfb92105b9af1ab65ac95456defad941b88384e7b880a2957d8ba4f95f1",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/TIDCS_SMC150_V1.5.zip"
+        },
+        {
+          "filename": "SMC150_BLDCM_Sensored_V1.5.zip",
+          "bytes": 1591350,
+          "sha256": "8b7405bb85d668f6b480f4842ddc05538faf092fcb639053dd02f9fcb7015879",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/SMC150_BLDCM_Sensored_V1.5.zip"
+        },
+        {
+          "filename": "SMC150_PMSM_Sensored(FOC)_V1.5.zip",
+          "bytes": 2073018,
+          "sha256": "db23e4360daeebbfe1ede1e29bf093f53f18a356e9b034c73cdb7452df7bc696",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/SMC150_PMSM_Sensored%28FOC%29_V1.5.zip"
+        },
+        {
+          "filename": "Hall-Effect Sensor를 이용한 3상 BLDCM의 속력제어 (V1.5).pdf",
+          "bytes": 1332567,
+          "sha256": "0b85771e3b470b99dfb79d9ab3d8055b83aea135824ef1595dd2ebbdc79302ad",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/Hall-Effect%20Sensor%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%203%EC%83%81%20BLDCM%EC%9D%98%20%EC%86%8D%EB%A0%A5%EC%A0%9C%EC%96%B4%20%28V1.5%29.pdf"
+        },
+        {
+          "filename": "Incremental Encoder를 이용한 3상 PMSM의 속도, 위치제어 (V1.5).pdf",
+          "bytes": 1864916,
+          "sha256": "500b1b0ca5a08c98e3bfa6a0473f25f04a31b6ed2128986d67b7824cb0374429",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0006-post-76/Incremental%20Encoder%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%203%EC%83%81%20PMSM%EC%9D%98%20%EC%86%8D%EB%8F%84%2C%20%EC%9C%84%EC%B9%98%EC%A0%9C%EC%96%B4%20%28V1.5%29.pdf"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "sno": 77,
+      "directory": "traningdataa/0007-post-77",
+      "commit": "b4b652cf1abd02f798d1b557cb1e682a42a9e900",
+      "files": [
+        {
+          "filename": "TIDCS_281x_2833x.zip",
+          "bytes": 1479215,
+          "sha256": "d5d522a9677bf134102de39fec279dfdf5b386a8e4763f7163d7125a60636421",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0007-post-77/TIDCS_281x_2833x.zip"
+        },
+        {
+          "filename": "TMS320F28X_EVM_TLV5638_DAC_2812.zip",
+          "bytes": 1213901,
+          "sha256": "7ad02fc795fc319cc7bc07111e5e021da96dda619d69806a8fd5f99caf012e84",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0007-post-77/TMS320F28X_EVM_TLV5638_DAC_2812.zip"
+        },
+        {
+          "filename": "TMS320F28X_EVM_TLV5638_DAC_28335.zip",
+          "bytes": 1225850,
+          "sha256": "1fcc86fcca9255e0ac804d68d6819c27d8db6f8681dd9e425d1b690952fbff11",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0007-post-77/TMS320F28X_EVM_TLV5638_DAC_28335.zip"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "sno": 78,
+      "directory": "traningdataa/0008-post-78",
+      "commit": "3529544b0d79609e49ecfd1f94b6845be10bbcc7",
+      "files": [
+        {
+          "filename": "SC450_ExampleBook_2nd.pdf",
+          "bytes": 2749112,
+          "sha256": "efc1e0dea5936e64d92d67dc68e141d96fdc76c398f360c76735beae04a9dbb3",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0008-post-78/SC450_ExampleBook_2nd.pdf"
+        },
+        {
+          "filename": "SC450_Example_2nd.zip",
+          "bytes": 134303789,
+          "sha256": "0a64b442b2ced389cf3ba08f10134680daf05ad8e1a72bcd771fb2f3fc581ac2",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/releases/download/traningdataa-materials-2026-11-03/traningdataa-0008-post-78-0a64b442b2ce.zip"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "sno": 79,
+      "directory": "traningdataa/0009-post-79",
+      "commit": "8d13ab898c1eaa7191159e8f7eeafdcba11068e3",
+      "files": [
+        {
+          "filename": "예제모음1집_시작하기_TR2801.pdf",
+          "bytes": 1804473,
+          "sha256": "bc5774539233e71cbd580c24c11386fe93c836cc3ef3ea25273dd9d461aa2efd",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0009-post-79/%EC%98%88%EC%A0%9C%EB%AA%A8%EC%9D%8C1%EC%A7%91_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0_TR2801.pdf"
+        },
+        {
+          "filename": "예제모음1집_시작하기_TR2801_CCSv4사용자안내서.pdf",
+          "bytes": 1110449,
+          "sha256": "5a70177eac74d25af014d4d7f55cd07d804a4d67fdbbf70c74825f9fd7afea56",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0009-post-79/%EC%98%88%EC%A0%9C%EB%AA%A8%EC%9D%8C1%EC%A7%91_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0_TR2801_CCSv4%EC%82%AC%EC%9A%A9%EC%9E%90%EC%95%88%EB%82%B4%EC%84%9C.pdf"
+        },
+        {
+          "filename": "예제모음1집cd.zip",
+          "bytes": 20911510,
+          "sha256": "32326e9dab5d695607c4f31b11bdef880e4f53661eed9735b4f34543ddda4c60",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0009-post-79/%EC%98%88%EC%A0%9C%EB%AA%A8%EC%9D%8C1%EC%A7%91cd.zip"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "sno": 80,
+      "directory": "traningdataa/0010-post-80",
+      "commit": "25cc6af8374313ab0965c8d3409f72777c2dede4",
+      "files": [
+        {
+          "filename": "플래시 예제 모음집_책자.zip",
+          "bytes": 4860458,
+          "sha256": "8a9557655928d7478e3adbbf98cc5025b8aa2aca310e680b3432112dcf39ab43",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0010-post-80/%ED%94%8C%EB%9E%98%EC%8B%9C%20%EC%98%88%EC%A0%9C%20%EB%AA%A8%EC%9D%8C%EC%A7%91_%EC%B1%85%EC%9E%90.zip"
+        },
+        {
+          "filename": "플래시 예제 모음집_CD내용.zip",
+          "bytes": 293111833,
+          "sha256": "cec50f01ad25bf5e6d4cfb95529f0cfd9edf222ce1c16771cec12b72d90bdad6",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/releases/download/traningdataa-materials-2026-11-03/traningdataa-0010-post-80-cec50f01ad25.zip"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "sno": 81,
+      "directory": "traningdataa/0011-post-81",
+      "commit": "6aa24aa1d90c1e14cebb706a22f7187841db361c",
+      "files": [
+        {
+          "filename": "SC450_ExampleBook_1st.pdf",
+          "bytes": 4121347,
+          "sha256": "400704cbdc9ee32415720bf3e0e8ec45744de43ce107cd6f2008e34e731d7802",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0011-post-81/SC450_ExampleBook_1st.pdf"
+        },
+        {
+          "filename": "SC450_Example_1st.zip",
+          "bytes": 147955504,
+          "sha256": "7f18737c6fb7a42bf8dae54805073c743b3db8dd78c81aed303209224a010e1a",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/releases/download/traningdataa-materials-2026-11-03/traningdataa-0011-post-81-7f18737c6fb7.zip"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "sno": 82,
+      "directory": "traningdataa/0012-post-82",
+      "commit": "899fcd5edb1c720c99920637fda1a7bb615d89b6",
+      "files": [
+        {
+          "filename": "CCSv5_HandBook_CD.zip",
+          "bytes": 147599488,
+          "sha256": "2540b5a0c67044b2d299006f2ca1568689c5c1e2339b3d5de0f03ab3d72ecf2a",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/releases/download/traningdataa-materials-2026-11-03/traningdataa-0012-post-82-2540b5a0c670.zip"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "sno": 83,
+      "directory": "traningdataa/0013-post-83",
+      "commit": "41bfc7c2a2a961fe12952113b018ec479d32df31",
+      "files": [
+        {
+          "filename": "Delfino_EVM_ECAP-EQEP_EXAM_DOC.zip",
+          "bytes": 4502349,
+          "sha256": "0197c527bcac295c0658b6049a30ae00e4133a61a03738d3417aeb808d76a5df",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0013-post-83/Delfino_EVM_ECAP-EQEP_EXAM_DOC.zip"
+        },
+        {
+          "filename": "Delfino_EVM_ECAP-EQEP_EXAM_CD.zip",
+          "bytes": 32685653,
+          "sha256": "4e233666e37d8e3cfe826c7157aba06bfd30d9e77a893a74a6a1f6c18d56c7e1",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0013-post-83/Delfino_EVM_ECAP-EQEP_EXAM_CD.zip"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "sno": 84,
+      "directory": "traningdataa/0014-post-84",
+      "commit": "26ddd4707631d7ef51ebf8164dfd4108f7e15991",
+      "files": [
+        {
+          "filename": "DELFINO_EVM_COMM_Example.zip",
+          "bytes": 15061307,
+          "sha256": "3d1aeeacab0f913ddb0a43356b2e875fc31127bb57e408a07d94e4f4a6f58abf",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0014-post-84/DELFINO_EVM_COMM_Example.zip"
+        },
+        {
+          "filename": "DELFINO_EVM_COMM_M_V111_EXAMPLES_CCSV550.zip",
+          "bytes": 7259062,
+          "sha256": "7da5b0373e7a5871c2a2e39fcbf35d480e155a76727619abeccdee4b23cb29ca",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0014-post-84/DELFINO_EVM_COMM_M_V111_EXAMPLES_CCSV550.zip"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "sno": 86,
+      "directory": "traningdataa/0015-post-86",
+      "commit": "f7b0e06c74b49453dd5bed4b379c4a744e2ed996",
+      "files": [
+        {
+          "filename": "SyncWorks_BLDC_Sensored_281x.zip",
+          "bytes": 5436146,
+          "sha256": "25ca29078a3c6ec4c592f9d57f832c2bf9fc95c9ff2f6e40195d276fcda54b2e",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensored_281x.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensored_280x.zip",
+          "bytes": 6844265,
+          "sha256": "0a8c0d3ac2f32aac18c871fddfaf9db4b44dda5ae2677fc512449765325c7d8d",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensored_280x.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensored_2833x.zip",
+          "bytes": 7106486,
+          "sha256": "a8f86eb31517ca392c85c1d93dac0a69bed70123209b964c3b2a900c68616b6d",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensored_2833x.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensored_281x_CCSv4.zip",
+          "bytes": 6595842,
+          "sha256": "98121759c604f7858deee1b9853438c658cd07ac5d19d1073ac39e92be679721",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensored_281x_CCSv4.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensored_280x_CCSv4.zip",
+          "bytes": 8003475,
+          "sha256": "8d01599961dabb6769b116614eb177f3293fb635a6169251b7d68ffa4fc13c30",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensored_280x_CCSv4.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensored_2833x_CCSv4.zip",
+          "bytes": 8280459,
+          "sha256": "f560f59e947f1fd948090d15646e958c043e4129e84c4c698e9fdd6ca5cacdb9",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensored_2833x_CCSv4.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensorless_281x.zip",
+          "bytes": 6196984,
+          "sha256": "9ebf59090cc1a21be26e46a67661610678f1b8eef8bbf9dee8e0de95a8f896ee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensorless_281x.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensorless_280x.zip",
+          "bytes": 7603962,
+          "sha256": "a34e0110000974506b2289c0ea34c09f238e294da6bc035b992f0b5a740dd506",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensorless_280x.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensorless_2833x.zip",
+          "bytes": 7879741,
+          "sha256": "7a982dc219199d68eeb45e3540738a99c693a5d87d7b4971bc414dc7074c0ec7",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensorless_2833x.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensorless_281x_CCSv4.zip",
+          "bytes": 7420112,
+          "sha256": "a6bded79ec07c05b032a95959fdf7b3451eb72bc6fd733add8a2533227c25bf5",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensorless_281x_CCSv4.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensorless_280x_CCSv4.zip",
+          "bytes": 8827632,
+          "sha256": "70bb48871a04d3cca547a5e3ea369726d01ba67b0d5d0446ca8eee710512cabf",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensorless_280x_CCSv4.zip"
+        },
+        {
+          "filename": "SyncWorks_BLDC_Sensorless_2833x_CCSv4.zip",
+          "bytes": 9106836,
+          "sha256": "717a297d3e9f0f5fcdcec8b012183c9c1929d15220eba1411c334decae263e29",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_BLDC_Sensorless_2833x_CCSv4.zip"
+        },
+        {
+          "filename": "SyncWorks_PMSM_Sensored_281x.zip",
+          "bytes": 7021628,
+          "sha256": "8a83fbc08e09ef0dc62342851a0b1f9a2248d640173ad7e0eb641dbe44c2cb5b",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_PMSM_Sensored_281x.zip"
+        },
+        {
+          "filename": "SyncWorks_PMSM_Sensored_280x.zip",
+          "bytes": 7065289,
+          "sha256": "2206472be30aec3b87c09ac9d846ca17a65db3652b6a1384576f74727d0bbf6f",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_PMSM_Sensored_280x.zip"
+        },
+        {
+          "filename": "SyncWorks_PMSM_Sensored_2833x.zip",
+          "bytes": 8620248,
+          "sha256": "c04f5c37494b3bf781c27e3593f12a6130e34ae3682022749be7ac4e420269aa",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_PMSM_Sensored_2833x.zip"
+        },
+        {
+          "filename": "SyncWorks_PMSM_Sensored_281x_CCSv4.zip",
+          "bytes": 8320031,
+          "sha256": "3dd99659d227d16f12ceeb4fb991872a208340d21b4873747040690bc4aebe63",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_PMSM_Sensored_281x_CCSv4.zip"
+        },
+        {
+          "filename": "SyncWorks_PMSM_Sensored_280x_CCSv4.zip",
+          "bytes": 8363827,
+          "sha256": "175c78f3b53c4f4e1f913aeaa4e65a623a73262e20c5e75000f0a1936a11abaf",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_PMSM_Sensored_280x_CCSv4.zip"
+        },
+        {
+          "filename": "SyncWorks_PMSM_Sensored_2833x_CCSv4.zip",
+          "bytes": 9935366,
+          "sha256": "d9825f5b47ddf1dfcc6d9cc28431ec4025ddd5ce9990172434f007359b130ccc",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0015-post-86/SyncWorks_PMSM_Sensored_2833x_CCSv4.zip"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "sno": 87,
+      "directory": "traningdataa/0016-post-87",
+      "commit": "bf491fd6c2384ac4fda3a58d85001c1e5df8f330",
+      "files": [
+        {
+          "filename": "TR28035_CLA_EXAM_DOC.zip",
+          "bytes": 7597238,
+          "sha256": "6a725c7564ec3dfb83828f8e263fbb6386f81c06e6553cd536c84d588910e088",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0016-post-87/TR28035_CLA_EXAM_DOC.zip"
+        },
+        {
+          "filename": "TR28035_CLA_EXAM_CD.zip",
+          "bytes": 21823374,
+          "sha256": "16d2dc527cba82212b925117b04bd6a5fb65655f36684d113fed127a985a73b7",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0016-post-87/TR28035_CLA_EXAM_CD.zip"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "sno": 88,
+      "directory": "traningdataa/0017-post-88",
+      "commit": "075e0ab90c1cb362401bb1ac3288977e139bb97a",
+      "files": [
+        {
+          "filename": "Delfino_Example100_PART1.pdf",
+          "bytes": 16019764,
+          "sha256": "6173ed5dcdbf1b8b1a31f65660194e14e1b41e57ac04bb95d0f81b07d570649e",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0017-post-88/Delfino_Example100_PART1.pdf"
+        },
+        {
+          "filename": "Delfino_Example100_PART1.zip",
+          "bytes": 26340838,
+          "sha256": "7e1fc56ba1efe019b8283a32778f53e3b963075f7bdbc672a503a83c18507c02",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdataa/0017-post-88/Delfino_Example100_PART1.zip"
+        }
+      ]
+    }
+  ]
+}
