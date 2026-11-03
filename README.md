@@ -1,6 +1,6 @@
 # C2000 예제 자료
 
-싱크웍스 기본예제 22개와 활용예제 17개 게시물의 자료를 보관합니다. 원본 파일을 수정하지 않았으며, 설치 프로그램은 실행하지 않았습니다. 사용 조건은 각 원본 배포 자료를 따릅니다.
+싱크웍스 기본예제 22개와 활용예제 17개 게시물의 자료를 보관합니다. 사용 조건은 각 배포 자료에 포함된 내용을 따릅니다.
 
 | 번호 | 자료 | 파일 수 |
 | ---: | --- | ---: |
@@ -49,11 +49,11 @@
 | 16 | [[예제모음집] CLA 시작하기 - TR28035 용](traningdataa/0016-post-87/) | 2 |
 | 17 | [[핸드북] Delfino 개발보드 예제 100선 PART1](traningdataa/0017-post-88/) | 2 |
 
-[활용예제 이전 결과](docs/migration-traningdataa-2026-11-03.md) · [대용량 ZIP 자료](https://github.com/c2000mcu-dev/c2000_example/releases/tag/traningdataa-materials-2026-11-03)
+[활용예제 자료 안내](docs/migration-traningdataa-2026-11-03.md) · [대용량 ZIP 자료](https://github.com/c2000mcu-dev/c2000_example/releases/tag/traningdataa-materials-2026-11-03)
 
-## 이전 기록
+## 자료 안내
 
-- [2026-11-03 이전 결과와 서버에 보존한 공통 파일](docs/migration-traningdatab-2026-11-03.md)
+- [기본예제 자료 안내](docs/migration-traningdatab-2026-11-03.md)
 
 
 SMC300 개발보드 예제는 별도 [smcexam 저장소](https://github.com/c2000mcu-dev/smcexam)에 보관합니다.

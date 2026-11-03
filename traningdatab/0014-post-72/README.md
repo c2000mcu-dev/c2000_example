@@ -1,8 +1,8 @@
 # [실습예제] TR28335 - 발열소자와 온도센서를 통한 PID 제어
 
-[원본 게시물](https://www.tms320f28x.co.kr/board/view.php?bdId=traningdatab&sno=72) · 기본예제 14번 · 이전일 2026-11-03
+[관련 게시물](https://www.tms320f28x.co.kr/board/view.php?bdId=traningdatab&sno=72) · 기본예제 14번
 
-SFTP 원본 파일을 수정 없이 보관했습니다. 설치 프로그램은 실행하지 않았습니다. 사용 조건은 원본 배포 자료를 따릅니다.
+사용 조건은 배포 자료에 포함된 내용을 따릅니다.
 
 | 파일 | bytes | SHA-256 |
 | --- | ---: | --- |

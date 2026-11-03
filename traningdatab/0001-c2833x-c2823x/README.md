@@ -11,13 +11,12 @@ TI가 제공하는 TMS320C2833x, TMS320C2823x의 C/C++ 헤더 파일/소스들�
 
 기존 게시물의 설치 안내: 압축을 해제하고 `setup_DSP2833x_v131.exe`를 실행하여 `C:\tidcs\c28\DSP2833x\v131`에 설치합니다.
 
-## 출처 및 원본 확인
+## 자료 정보
 
 - 출처: [싱크웍스 기본예제 1번 게시물](https://www.tms320f28x.co.kr/board/view.php?bdId=traningdatab&sno=57)
 - 원문 제목: [TI 예제] C2833x, C2823x C/C++ Header Files and Peripheral Examples
 - 원문 등록일: 2010-03-26
-- 이전일: 2026-11-03
-- 원본 ZIP 크기: 2,680,028 bytes
+- ZIP 크기: 2,680,028 bytes
 - SHA-256: `adfaa9158b9291f748dc2aabefc335b3aca849b12a5e0f26cbac4dcde0aa4305`
 
-SFTP 원본 ZIP을 수정 없이 보관했습니다. 설치 프로그램은 실행하지 않았습니다. 원본 자료의 저작권 및 사용 조건은 배포 파일에 포함된 내용을 따릅니다.
+사용 조건은 배포 자료에 포함된 내용을 따릅니다.
