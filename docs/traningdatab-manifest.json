@@ -1,0 +1,504 @@
+{
+  "board": "traningdatab",
+  "date": "2026-11-03",
+  "posts": [
+    {
+      "number": 1,
+      "sno": 57,
+      "directory": "traningdatab/0001-c2833x-c2823x",
+      "files": [
+        {
+          "filename": "sprc530.zip",
+          "bytes": 2680028,
+          "sha256": "adfaa9158b9291f748dc2aabefc335b3aca849b12a5e0f26cbac4dcde0aa4305"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "sno": 58,
+      "directory": "traningdatab/0002-post-58",
+      "commit": "91fa3f488290092b939907780a0f6f1dcce42553",
+      "files": [
+        {
+          "filename": "sprc191.zip",
+          "bytes": 1584127,
+          "sha256": "1f5fdb4cee45cb09059749d65b628b6d9e5d0667823597454716d44efdf581d5",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0002-post-58/sprc191.zip"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "sno": 59,
+      "directory": "traningdatab/0003-post-59",
+      "commit": "750b1bf26a72e38c2e26c0ea9f1fc6b64666ce5d",
+      "files": [
+        {
+          "filename": "sprc097.zip",
+          "bytes": 1340235,
+          "sha256": "318dbcd1857ce49eb79525fc25fb0ffbf1366a8bb8a28c1fe038b4b8ca4402d8",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0003-post-59/sprc097.zip"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "sno": 60,
+      "directory": "traningdatab/0004-post-60",
+      "commit": "7b9b11080001dac88c528c44bbcada3c103f620a",
+      "files": [
+        {
+          "filename": "sprc876.zip",
+          "bytes": 2323400,
+          "sha256": "efd00627c98dd1a8f2c4f7850b2153f27591a36f11a407ef68d558f36e140fde",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0004-post-60/sprc876.zip"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "sno": 62,
+      "directory": "traningdatab/0005-post-62",
+      "commit": "3a9be718bd85fff72d47622e57b579d0083f066a",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0005-post-62/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "TR28335_Project.zip",
+          "bytes": 176829,
+          "sha256": "0be40e866044cf8b64738ed3db4db3fca4f55fa111f60374fe0b3aa436ab181a",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0005-post-62/TR28335_Project.zip"
+        },
+        {
+          "filename": "TR28335_CCSV4.x프로젝트_만들기.pdf",
+          "bytes": 1101213,
+          "sha256": "f4b2982e24afa071586f118dc829fe9873e331d117511d0d9b52ab185f300f6a",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0005-post-62/TR28335_CCSV4.x%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%A7%8C%EB%93%A4%EA%B8%B0.pdf"
+        },
+        {
+          "filename": "TR28335_CCSV3.3프로젝트_만들기.pdf",
+          "bytes": 976280,
+          "sha256": "aa842d9e146aa4eb1b3f0dbcc7d0946aa8efb53c5a9221ff2e80ba22ebcc55fe",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0005-post-62/TR28335_CCSV3.3%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%A7%8C%EB%93%A4%EA%B8%B0.pdf"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "sno": 63,
+      "directory": "traningdatab/0006-post-63",
+      "commit": "5f40955f27e7dbf04c4ad0dcb8ab68f25f8151f2",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0006-post-63/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "ADC01_EXM_for_CCSv3.3.zip",
+          "bytes": 13764,
+          "sha256": "f585445f11614489f3bcb5df4eccc9ce437fe4559f0e81819388b598300b8d7f",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0006-post-63/ADC01_EXM_for_CCSv3.3.zip"
+        },
+        {
+          "filename": "ADC01_EXM_for_CCSv4.x.zip",
+          "bytes": 24493,
+          "sha256": "c4e28042c049b9a476468a68934a7ae50d81dfbf80e0999c4b9f4af61d19b118",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0006-post-63/ADC01_EXM_for_CCSv4.x.zip"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "sno": 64,
+      "directory": "traningdatab/0007-post-64",
+      "commit": "e9dd5f37fcc0c3660d974fc20b9af8b26f6a49f3",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0007-post-64/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "DMA01_EXM_for_CCSv3.3.zip",
+          "bytes": 16295,
+          "sha256": "85614081e142fa6fdc0187f3f50c01a6578c7ff8e42168d423b10aef75d62d34",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0007-post-64/DMA01_EXM_for_CCSv3.3.zip"
+        },
+        {
+          "filename": "DMA01_EXM_for_CCSv4.x.zip",
+          "bytes": 27567,
+          "sha256": "d195bd292d2ddb9617d5ff9b437df2a19d031432ab1de4f663dad1f7026c6cbe",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0007-post-64/DMA01_EXM_for_CCSv4.x.zip"
+        },
+        {
+          "filename": "DMA동작동영상.zip",
+          "bytes": 1306637,
+          "sha256": "3d9c7829a4854de0330253bb6b99e4c0ff626306ffb251ce9abd0f3ac29d5d6f",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0007-post-64/DMA%EB%8F%99%EC%9E%91%EB%8F%99%EC%98%81%EC%83%81.zip"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "sno": 65,
+      "directory": "traningdatab/0008-post-65",
+      "commit": "8b9e021fac2462ac80cdfe5dc6487294703d02be",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0008-post-65/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "[Basic_EXM]_1Ch_Pwm_V330.zip",
+          "bytes": 1692570,
+          "sha256": "693b7f634d69f6887b33ad86c107f71c8c204dc959ce37c9a9b09ca603109abb",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0008-post-65/%5BBasic_EXM%5D_1Ch_Pwm_V330.zip"
+        },
+        {
+          "filename": "[Basic_EXM]_1Ch_Pwm_V400.zip",
+          "bytes": 1445907,
+          "sha256": "7898d3fa12311ee9cc219a90171bd63c0dfb8b3d34abf057844191b43211479c",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0008-post-65/%5BBasic_EXM%5D_1Ch_Pwm_V400.zip"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "sno": 66,
+      "directory": "traningdatab/0009-post-66",
+      "commit": "554487b119e3a28200d3ddb26d69fc1f0695bd02",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0009-post-66/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "[Basic_EXM]_Edge_Capture_V330.zip",
+          "bytes": 1456714,
+          "sha256": "fbbd9513e76df616e2f1b2918c53837b8b7230316d45da47b5f4adb93f086c41",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0009-post-66/%5BBasic_EXM%5D_Edge_Capture_V330.zip"
+        },
+        {
+          "filename": "[Basic_EXM]_Edge_Capture_V400.zip",
+          "bytes": 1558040,
+          "sha256": "edc33afda9ac63f66607cb98a117295d1d7929392859b655dcd8a6ecdd6f7171",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0009-post-66/%5BBasic_EXM%5D_Edge_Capture_V400.zip"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "sno": 67,
+      "directory": "traningdatab/0010-post-67",
+      "commit": "a1b44f6658ab424f179cfe2830c2e935ed40e351",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0010-post-67/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "[Basic_EXM]_Encoder_Signal_Decode_V330.zip",
+          "bytes": 1511569,
+          "sha256": "8eae27f3b55e6705a0f07638b8045ab58a34e394693f837ed8973177c82b2ab6",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0010-post-67/%5BBasic_EXM%5D_Encoder_Signal_Decode_V330.zip"
+        },
+        {
+          "filename": "[Basic_EXM]_Encoder_Signal_Decode_V400.zip",
+          "bytes": 1578051,
+          "sha256": "804e700180fa0f7f3accfb08d7ecb219da64e98b8e99774993a1a49e3b71f7a8",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0010-post-67/%5BBasic_EXM%5D_Encoder_Signal_Decode_V400.zip"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "sno": 68,
+      "directory": "traningdatab/0011-post-68",
+      "commit": "dc6ab0c25acdfc145fd23c0700c53b8bc79dc6da",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0011-post-68/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "02A_SCI_LoopBack_for_CCSv3.3.zip",
+          "bytes": 10869,
+          "sha256": "36e843f26701b31b6ddfeab5fda4c6d9998c728e9473bf6133b6a685c8f8ed7f",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0011-post-68/02A_SCI_LoopBack_for_CCSv3.3.zip"
+        },
+        {
+          "filename": "02A_SCI_LoopBack_for_CCSv4.x.zip",
+          "bytes": 21937,
+          "sha256": "805d31dd6d2ab919790e7be1b5726ff63aaf0f84f363b15cf2153a60d9d92b70",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0011-post-68/02A_SCI_LoopBack_for_CCSv4.x.zip"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "sno": 69,
+      "directory": "traningdatab/0012-post-69",
+      "commit": "e07fc5503601918a883e236c34a70adc41c08f48",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0012-post-69/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "03A_CAN_LoopBack_for_CCSv3.3.zip",
+          "bytes": 29446,
+          "sha256": "63109579aa2cec43409a6a514742b8119e28e6e6d399904da80944ebe416ca68",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0012-post-69/03A_CAN_LoopBack_for_CCSv3.3.zip"
+        },
+        {
+          "filename": "03A_CAN_LoopBack_for_CCSv4.x.zip",
+          "bytes": 29987,
+          "sha256": "8b2077af4ef2f501f1aafd99d7db1f9a3fa262a991d0a16fcd070777077b4237",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0012-post-69/03A_CAN_LoopBack_for_CCSv4.x.zip"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "sno": 70,
+      "directory": "traningdatab/0013-post-70",
+      "commit": "8bd8883b3c522312b7b5c2fe10e87e74bd7f291f",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0013-post-70/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "04A_I2C_LoopBack_for_CCSv3.3.zip",
+          "bytes": 16975,
+          "sha256": "601c8e54826b73da41e037e4f0ee6cd58b5c0a0abccd7440c24515f99943379e",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0013-post-70/04A_I2C_LoopBack_for_CCSv3.3.zip"
+        },
+        {
+          "filename": "04A_I2C_LoopBack_for_CCSv4.x.zip",
+          "bytes": 28043,
+          "sha256": "7db21dced43120c4fc6f34bc3503b212dcc911a86ea01b5b41b72ffa73f5c859",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0013-post-70/04A_I2C_LoopBack_for_CCSv4.x.zip"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "sno": 72,
+      "directory": "traningdatab/0014-post-72",
+      "commit": "a2cf3146f39ccc7ca1a7974260ef39f577774bbe",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0014-post-72/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "ADC04_EXM_for_CCSv3.3.zip",
+          "bytes": 30031,
+          "sha256": "db172edd9f534ffb4e5092360a9969ceea57b1afb1749378fe069d1c443e8daa",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0014-post-72/ADC04_EXM_for_CCSv3.3.zip"
+        },
+        {
+          "filename": "ADC04_EXM_for_CCSv4.x.zip",
+          "bytes": 41844,
+          "sha256": "e7eafdcb3889cdf0765e1a0678a68bfafb3c37a139d2b6cca473a7a9f4a172f6",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0014-post-72/ADC04_EXM_for_CCSv4.x.zip"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "sno": 73,
+      "directory": "traningdatab/0015-post-73",
+      "commit": "49b3249add596d5d8b833d9e2ae5bd219a8f28ec",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0015-post-73/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "DELFINO_EVM_28335_V400.zip",
+          "bytes": 1266651,
+          "sha256": "cc4824f6f63bda66f1dde274e2ca377c4305dbb28efdb1b80ecbc370e02d12e8",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0015-post-73/DELFINO_EVM_28335_V400.zip"
+        },
+        {
+          "filename": "Delfino_EVM용_처음시작하기_프로젝트만들기(28335).pdf",
+          "bytes": 1170167,
+          "sha256": "bc763796ec0acd3a3cc4662b0b0b9bd6c329837ebf558c44ab577e6666442c7b",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0015-post-73/Delfino_EVM%EC%9A%A9_%EC%B2%98%EC%9D%8C%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A7%8C%EB%93%A4%EA%B8%B0%2828335%29.pdf"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "sno": 74,
+      "directory": "traningdatab/0016-post-74",
+      "commit": "cb1385f16d938867a21cd2dfb2bb8f7667e8d009",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2834x.zip",
+          "bytes": 2171222,
+          "sha256": "c01e7618b75c512693aac4a02a5279d1b6628f89eb71dfe971e55b72615fed41",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0016-post-74/TIDCS_DSP2834x.zip"
+        },
+        {
+          "filename": "DELFINO_EVM_28346_V400.zip",
+          "bytes": 248983,
+          "sha256": "cac254530b004b90bdaec06d850a419470df27dd4f56eb33857500d5bcf98809",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0016-post-74/DELFINO_EVM_28346_V400.zip"
+        },
+        {
+          "filename": "Delfino_EVM용_처음시작하기_프로젝트만들기(28346).pdf",
+          "bytes": 1175524,
+          "sha256": "1e4a77c89099dc837b25f7b07f3575c7758df1be40306376f7c857afed9cfa8b",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0016-post-74/Delfino_EVM%EC%9A%A9_%EC%B2%98%EC%9D%8C%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A7%8C%EB%93%A4%EA%B8%B0%2828346%29.pdf"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "sno": 75,
+      "directory": "traningdatab/0017-post-75",
+      "commit": "8ebc0fa1806f27f6465895f637c227f1f29984f0",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2833x.zip",
+          "bytes": 2313100,
+          "sha256": "d61f805cd78f3301d15bfb9bd9e894024f0628a9f44bff43365456485933daee",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0017-post-75/TIDCS_DSP2833x.zip"
+        },
+        {
+          "filename": "FLASH_V330.zip",
+          "bytes": 2146963,
+          "sha256": "436f75c47c426e1316d588a2daf87c4afc287210b6dae16a7480b94c6bd009b7",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0017-post-75/FLASH_V330.zip"
+        },
+        {
+          "filename": "FLASH_V400.zip",
+          "bytes": 2810019,
+          "sha256": "f86dbad662b0ea58e888f635c1bac4e4a7fcae3fa28736d955aa7ce6da45e320",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0017-post-75/FLASH_V400.zip"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "sno": 76,
+      "directory": "traningdatab/0018-post-76",
+      "commit": "581897acb5cfffdff46746b7ba2d5284351d42ed",
+      "files": [
+        {
+          "filename": "BOOT_EXM_V500.zip",
+          "bytes": 2094347,
+          "sha256": "754892e816d0f5f69f4153c7d3ace87eab4704ee3d81d14990c1771ac42b1e97",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0018-post-76/BOOT_EXM_V500.zip"
+        },
+        {
+          "filename": "TMS320C28346_HEX유틸리티_사용법.pdf",
+          "bytes": 673080,
+          "sha256": "7571239aef400479693333f31e9f425e9a78e7850bbb735de3c8e779c2173ed4",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0018-post-76/TMS320C28346_HEX%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0_%EC%82%AC%EC%9A%A9%EB%B2%95.pdf"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "sno": 77,
+      "directory": "traningdatab/0019-post-77",
+      "commit": "a6d2296fdd8e079b49fce68235a932995bebea5b",
+      "files": [
+        {
+          "filename": "TMS320C28346_Duo27_M_ADC_Example.zip",
+          "bytes": 976917,
+          "sha256": "783ae041b741c80dde0f0770f1aad4b8988f9d3f26e974dd52a428a9f8a42696",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0019-post-77/TMS320C28346_Duo27_M_ADC_Example.zip"
+        },
+        {
+          "filename": "Datasheet_C28346_Duo27_M_ADC_V110.pdf",
+          "bytes": 1361176,
+          "sha256": "88a1e3a9f179659059bc39cb700be5d129237fef8336c1d9ec8b8ea49440a69b",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0019-post-77/Datasheet_C28346_Duo27_M_ADC_V110.pdf"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "sno": 79,
+      "directory": "traningdatab/0020-post-79",
+      "commit": "870a32466b6c7bf05f0aed6405a1756f04589f65",
+      "files": [
+        {
+          "filename": "TIDCS_DSP28069.zip",
+          "bytes": 11747675,
+          "sha256": "dac104bc6d5066f3a3d5822c048d7fa745fc0b4da6e90d8bd040e4d81795f3e6",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0020-post-79/TIDCS_DSP28069.zip"
+        },
+        {
+          "filename": "001_Led_Toggle_V500.zip",
+          "bytes": 383941,
+          "sha256": "6da629ec6f27fb49ebd53171ea4f1864485409317f3baa7de4655dd4a7067923",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0020-post-79/001_Led_Toggle_V500.zip"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "sno": 80,
+      "directory": "traningdatab/0021-post-80",
+      "commit": "3b3262205c886a49d327a5413bb640c1c207f6cb",
+      "files": [
+        {
+          "filename": "TIDCS_DSP2806x.zip",
+          "bytes": 305396,
+          "sha256": "aadec26dfbd19f785ebc563871980a44fa4e145cbfd9d42af1016ec39ab395dd",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0021-post-80/TIDCS_DSP2806x.zip"
+        },
+        {
+          "filename": "DSP2806x_01_Adc_Polling.zip",
+          "bytes": 215795,
+          "sha256": "594739f1c7ef7b88bb354ef3613933b530fdff8d40e0cdfda16671bdd3a55f71",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0021-post-80/DSP2806x_01_Adc_Polling.zip"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "sno": 83,
+      "directory": "traningdatab/0022-post-83",
+      "commit": "4ad06b0eceb265283f0cb75e88e48ac68e627577",
+      "files": [
+        {
+          "filename": "EXT_INTERRUPT_CCSv5.zip",
+          "bytes": 2358840,
+          "sha256": "1acf7b73c0860a5e89cd79b89b399fea9754117169e7a53bf302c56617aaa8a4",
+          "github": "https://github.com/c2000mcu-dev/c2000_example/raw/refs/heads/main/traningdatab/0022-post-83/EXT_INTERRUPT_CCSv5.zip"
+        }
+      ]
+    }
+  ]
+}
