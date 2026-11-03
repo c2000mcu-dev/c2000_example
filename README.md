@@ -51,11 +51,9 @@
 
 [활용예제 이전 결과](docs/migration-traningdataa-2026-11-03.md) · [대용량 ZIP 자료](https://github.com/c2000mcu-dev/c2000_example/releases/tag/traningdataa-materials-2026-11-03)
 
-## 이전 기록과 재사용 스킬
+## 이전 기록
 
 - [2026-11-03 이전 결과와 서버에 보존한 공통 파일](docs/migration-traningdatab-2026-11-03.md)
-- [고도몰 SFTP → GitHub 이전 스킬](skills/godomall-sftp-to-github/SKILL.md)
 
-다른 AI는 위 `SKILL.md`와 연결된 참고 문서를 읽어 같은 절차를 수행할 수 있습니다. Codex에서는 `skills/godomall-sftp-to-github` 폴더를 개인 스킬 디렉터리에 복사해 사용할 수 있습니다. 인증 정보는 포함하지 않습니다.
 
 SMC300 개발보드 예제는 별도 [smcexam 저장소](https://github.com/c2000mcu-dev/smcexam)에 보관합니다.

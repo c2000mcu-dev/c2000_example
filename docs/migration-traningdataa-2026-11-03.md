@@ -27,7 +27,3 @@
 | 파일 | 다른 게시물 |
 | --- | --- |
 | `/data/goods/swgoods/4072/Datasheet_Delfino_EVM_Motor_Module_V131.pdf` | [techniquedatab/45](https://www.tms320f28x.co.kr/board/view.php?bdId=techniquedatab&sno=45) |
-
-## 재사용
-
-[고도몰 SFTP → GitHub 이전 스킬](../skills/godomall-sftp-to-github/SKILL.md)을 다른 AI에서도 사용할 수 있습니다. 대용량 자료를 Releases로 이전하고 검증하는 방법도 포함합니다.

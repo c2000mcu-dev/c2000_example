@@ -48,7 +48,3 @@
 | `/data/goods/swgoods/3051/TMS320C28346_HEX유틸리티_사용법.pdf` | [techniquedatab/39](https://www.tms320f28x.co.kr/board/view.php?bdId=techniquedatab&sno=39) |
 | `/data/goods/swgoods/3053/TMS320C28346_Duo27_M_ADC_Example.zip` | [techniquedatab/43](https://www.tms320f28x.co.kr/board/view.php?bdId=techniquedatab&sno=43) |
 | `/data/goods/swgoods/3053/Datasheet_C28346_Duo27_M_ADC_V110.pdf` | [techniquedatab/43](https://www.tms320f28x.co.kr/board/view.php?bdId=techniquedatab&sno=43) |
-
-## 재사용
-
-[이전 스킬](../skills/godomall-sftp-to-github/SKILL.md)은 게시물 식별, 백업, 해시 검증, 공유 파일 확인, 게시물 링크 수정, 원본 삭제, 재개 절차를 설명합니다. [파일 검증 스크립트](../skills/godomall-sftp-to-github/scripts/verify_artifact.py)는 Python 표준 라이브러리만 사용합니다.
